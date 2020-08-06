@@ -1,0 +1,45 @@
+/* Import fronts from fonts.css */
+@import url(./fonts.css);
+
+/* CSS variables */
+
+
+.navbar
+{
+    padding:  1rem 15rem;
+}
+
+.card-deck
+{
+    padding: 50px  15rem;
+}
+
+
+.card-columns
+{
+    padding: 15rem;
+}
+
+
+.Filter
+{
+    text-align: center;
+    margin: 5rem 0rem 0rem 0rem;
+
+}
+
+.Filters_Links
+{
+    padding: 0px 1rem;
+}
+
+.AboutMe
+{
+    padding: 5rem 25rem;
+    
+}
+
+.SocialMediaIcon
+{
+    margin: 0px 5px;
+}
